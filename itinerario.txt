@@ -1,1 +1,7 @@
 5:30 Me levanto
+7:00 Salgo hacía el trabajo
+9:00 Llego a la empresa
+9:30 Empiezo a trabajar sobre mi proyecto de Git
+10:00 Hora del desayuno
+11:00 Vuelvo a mi puesto de trabajo
+6:00 Salida de la oficina
